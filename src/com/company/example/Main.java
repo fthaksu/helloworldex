@@ -6,7 +6,7 @@ public class Main {
 	    System.out.println("first version");
 
         Print printClass = new Print();
-        printClass.printSomething("second version");
+        printClass.printSomething("third3 version");
     }
 
 }
